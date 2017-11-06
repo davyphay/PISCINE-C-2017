@@ -1,0 +1,8 @@
+Credentials cache: API:537A6824-F89B-4972-937B-3ADCFDA68B06
+        Principal: dphay@42.FR
+
+		  Issued                Expires               Principal
+		  Aug 28 16:01:19 2017  Sep  4 16:01:19 2017  krbtgt/42.FR@42.FR
+		  Aug 28 16:01:22 2017  Sep  4 16:01:19 2017  ldap/ldap-proxy.42.fr@42.FR
+		  Aug 28 16:01:22 2017  Sep  4 16:01:19 2017  HTTP/student-storage-2.42.fr@42.FR
+		  Aug 28 16:27:12 2017  Sep  4 16:01:19 2017  host/vgs-fn1.42.fr@42.FR
